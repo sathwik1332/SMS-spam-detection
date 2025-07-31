@@ -2,7 +2,7 @@
 This project implements a Spam Detection System using machine learning techniques to classify SMS messages as either spam or ham (not spam). The workflow includes data preprocessing, feature engineering, model training, evaluation, and real-time prediction via user input.
 
 🔍 Features
-Dataset: Based on the SMSSpamCollection dataset, loaded with proper label encoding.
+Dataset: Based on the SMS Spam Collection dataset, loaded with proper label encoding.
 
 Data Analysis & Visualization:
 
